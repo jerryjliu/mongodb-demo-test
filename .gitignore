@@ -1,0 +1,4 @@
+.venv
+.env
+tweets.json
+fewertweets.json
